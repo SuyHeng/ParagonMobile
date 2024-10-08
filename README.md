@@ -9,10 +9,10 @@ This project is an Android mobile application that provides a mobile version of 
 ## Requirements
 Versions of the technologies used:
 
-IDE Used: Android Studio Giraffe | 2022.3.1 Patch 2
-Emulator: Pixel 7 Pro API 33
-Flutter Version: 3.24.3
-Dart Version: 3.5.2
+- **IDE Used**: Android Studio Giraffe | 2022.3.1 Patch 2
+- **Emulator**: Pixel 7 Pro API 33
+- **Flutter Version**: 3.24.3
+- **Dart Version**: 3.5.2
 
 ## Installation/Setup
 
