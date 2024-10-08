@@ -1,16 +1,35 @@
-# infomobile
+# Project Name: ParagonMobile
 
-A new Flutter project.
+Android Application Replicating the Paragon International University's Website
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+This project is an Android mobile application that provides a mobile version of the Paragon International University's official website. The application's main goal is to replicate the website's features, making it easy for students, staffs and visitors to navigate the school's resources and information.
 
-A few resources to get you started if this is your first Flutter project:
+## Requirements
+Versions of the technologies used:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+IDE Used: Android Studio Giraffe | 2022.3.1 Patch 2
+Emulator: Pixel 7 Pro API 33
+Flutter Version: 3.24.3
+Dart Version: 3.5.2
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation/Setup
+
+1. **Clone the Repository**
+    ```bash
+    git clone https://github.com/SuyHeng/ParagonMobile.git
+    ```
+
+2. **Open the project in your preferred Editor**
+3. **Run flutter pub get to get all dependencies**
+    ```bash
+    flutter pub get
+    ```
+4. **Run the application**
+    ```bash
+    flutter run
+    ```
+
+### Happy Coding
+This README.md was created to provide users with a detailed understanding on how to run this project.
